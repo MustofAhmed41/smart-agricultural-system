@@ -4,6 +4,13 @@ A proteus implementation of a smart agricultural system
 ![Capture (1)](https://user-images.githubusercontent.com/46398353/141159883-cd5e3d42-7750-4b69-8cbd-aa41a2dbc09f.png)
 
 
+### Presentation & Report Files: 
+[Final Presentation.pptx](https://github.com/MustofAhmed41/smart-agricultural-system/files/7515413/Final.Presentation.pptx)
+
+[Final Report.pdf](https://github.com/MustofAhmed41/smart-agricultural-system/files/7515414/Final.Report.pdf)
+
+
+
 ## Components used
 
 - Required Components
@@ -41,11 +48,5 @@ A crucial part of our project is taking measurements from the environment. Our p
 - Light Bulbs -  We are using light bulbs to control the temperature when the temperature falls below 15 degrees Celsius
 - GSM - The users are warned through GSM when the pH and moisture content of the soil is not optimum. The users need to take action accordingly to adjust these two parameters
 - LCD - This is used to show all the readings that are being taken from the sensors
-
-
-### Presentation & Report Files: 
-[Final Presentation.pptx](https://github.com/MustofAhmed41/smart-agricultural-system/files/7515413/Final.Presentation.pptx)
-
-[Final Report.pdf](https://github.com/MustofAhmed41/smart-agricultural-system/files/7515414/Final.Report.pdf)
 
 
