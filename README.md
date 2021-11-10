@@ -1,7 +1,8 @@
 # smart-agricultural-system
 A proteus implementation of a smart agricultural system
 
-![Capture](https://github.com/Propo41/smart-agricultural-system/blob/main/Capture.PNG)
+![Capture (1)](https://user-images.githubusercontent.com/46398353/141159883-cd5e3d42-7750-4b69-8cbd-aa41a2dbc09f.png)
+
 
 ## Components used
 
