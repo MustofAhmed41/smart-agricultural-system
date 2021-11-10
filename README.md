@@ -45,6 +45,7 @@ A crucial part of our project is taking measurements from the environment. Our p
 
 ### Presentation & Report Files: 
 [Final Presentation.pptx](https://github.com/MustofAhmed41/smart-agricultural-system/files/7515413/Final.Presentation.pptx)
+
 [Final Report.pdf](https://github.com/MustofAhmed41/smart-agricultural-system/files/7515414/Final.Report.pdf)
 
 
